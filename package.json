@@ -2,7 +2,7 @@
   "name": "linealphatjs",
   "version": "0.2.1",
   "description": "LineAlphat JS",
-  "main": "./library/main.js",
+  "main": "./src/main.js",
   "scripts": {
     "start": "npm run bot",
     "bot": "node ./src/bot.js"
