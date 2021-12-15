@@ -1,61 +1,29 @@
-# Aditmadzs-Selfbot-1Assist
-#   Selfbot 1Assist By : Aditmadzs And Editing By : Abiputrallg
+# บอทบิน ✯ᴮʸ✯нηυм вσт ℓιηє✯ 
+# บินให้ชาวบ้านเขาลือกันไปเลย 
+# ( ผู้หญิงสอนฟรี ไม่คิดเงินครับผม )
 
-#      MODUL² YANG PERLU DI INSTALL
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `git clone https://github.com/hnumlove5/Bot-JS`
+- `pkg install nano`
+- `pkg install nodejs`
+- `pkg install coreutils`
+- `pkg install nodejs-current`
+- `pkg install nodejs-current-dev`
+- `cd Bot-JS && npm install`
+- `npm audit fix`
+- `npm audit`
+- `cd src`
+- `nano main.js` ( เข้าไปแก้ MID ก่อนแล้วค่อยลงคำสั่งต่อไป )
+- `npm start`
 
-termux-setup-storage
 
-cd storage && cd downloads
+# คำสั่งบอทมี 2คำสั่ง
+# 1 - `.เทส` เช็คสปีดบอท
+# 2 - `.ออน` คำสั่งให้บอทบิน
 
-pkg install git
-
-pkg install nano
-
-pkg install nodejs
-
-pkg install python -y
-
-pkg install python2 -y
-
-pkg install python3 -y
-
-pkg install pip
-
-pip install --upgrade pip
-
-pip3 install rsa
-
-pip3 install thrift==0.11.0
-
-pip3 install requests
-
-pip3 install bs4
-
-pip3 install gtts
-
-pip3 install beautifulsoup
-
-pip3 install googletrans
-
-pip3 install pafy
-
-pip3 install humanfriendly
-
-pip3 install goslate
-
-pip3 install wikipedia
-
-pip3 install youtube_dl
-
-pip3 install tweepy
-
-pkg update
-
-pkg upgrade
-
-#   Special Thank's To ALLAH S.W.T
-#   Thank's To Aditmadzs And Team
-# bs
-# bs
-# bs
-# bs
+----
+# ถ้าบอทมีปัญหา หรือรันบอทไม่ได้ แอดมาที่ไลน์ ID: djhnum097 
+# https://line.me/ti/p/9P3vQS2cgd
+# ᴮʸ☃थัπℓतএບਹמໄतथ์
